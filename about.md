@@ -14,7 +14,7 @@ You can find me of various social platforms:
 - [Mastodon](https://mastodon.gamedev.place/@AcroCatabro)
 - [Bluesky](https://bsky.app/profile/acrocatabro.bsky.social)
 - [X/Twitter](https://x.com/Acro_Catabro)
-- [Telegram (RU)](t.me/AcroCatabro)
+- [Telegram (RU)](https://t.me/AcroCatabro)
 
 I'll be happy if you follow me there 🙂
 

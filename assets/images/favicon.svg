@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="100%" height="100%"><svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.41291,0,0,1.56822,-105.706,-115.277)">
+        <path d="M116.144,304.86L95.85,317.114L103.839,297L84.052,288.383L109.072,280.161L161.866,96.82L212.835,155.82L299.165,155.82L350.134,96.82L402.928,280.161L427.948,288.383L408.161,297L416.15,317.114L395.856,304.86L256,376.681L116.144,304.86Z" style="fill:none;stroke:black;stroke-width:16.75px;"></path>
+    </g>
+    <g transform="matrix(0.971994,0,0,1.07883,7.16948,-9.3929)">
+        <g transform="matrix(1.45362,0,0,1.45362,-116.128,-66.3424)">
+            <path d="M272,264L256,279L256,301L272,301" style="fill:none;stroke:black;stroke-width:16.75px;stroke-linejoin:miter;"></path>
+        </g>
+        <g transform="matrix(-1.45362,0,0,1.45362,628.128,-66.3424)">
+            <path d="M272,264L256,279L256,301L272,301" style="fill:none;stroke:black;stroke-width:16.75px;stroke-linejoin:miter;"></path>
+        </g>
+    </g>
+    <g transform="matrix(0.971994,0,0,1.07883,13.1113,-20.1812)">
+        <g transform="matrix(1.45362,0,0,1.45362,-104.499,-75.0641)">
+            <path d="M272,207L339,207" style="fill:none;stroke:black;stroke-width:16.75px;stroke-linejoin:miter;"></path>
+        </g>
+        <g transform="matrix(1.45362,0,0,1.433,-116.128,-80.6925)">
+            <path d="M306,216L306,251" style="fill:none;stroke:black;stroke-width:16.88px;stroke-linejoin:miter;"></path>
+        </g>
+    </g>
+    <g transform="matrix(-0.971994,0,0,1.07883,498.889,-20.1812)">
+        <g transform="matrix(1.45362,0,0,1.45362,-104.499,-75.0641)">
+            <path d="M272,207L339,207" style="fill:none;stroke:black;stroke-width:16.75px;stroke-linejoin:miter;"></path>
+        </g>
+        <g transform="matrix(1.45362,0,0,1.433,-116.128,-80.6925)">
+            <path d="M306,216L306,251" style="fill:none;stroke:black;stroke-width:16.88px;stroke-linejoin:miter;"></path>
+        </g>
+    </g>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>

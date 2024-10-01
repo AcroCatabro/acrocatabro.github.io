@@ -1,3 +1,7 @@
+# domain: acrocatabro.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+# url: https://acrocatabro.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+# baseurl:                            # place folder name if the site is served in a subfolder
+
 title: Acro's Place
 author: AcroCatabro
 name: 
@@ -45,7 +49,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: auto
+  skin: auto-custom
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
