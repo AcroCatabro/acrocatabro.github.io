@@ -5,4 +5,4 @@ source "https://rubygems.org"
 # gem "jekyll"
 # gem "github-pages", "~> 232", group: :jekyll_plugins
 gem "github-pages", group: :jekyll_plugins
-gem "minima"
+gem "minima", "~> 2.5"
