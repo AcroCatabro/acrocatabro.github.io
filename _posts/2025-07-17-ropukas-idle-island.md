@@ -4,7 +4,9 @@ title: About Ropuka's Idle Island
 tags: Videogames Impressions 
 ---
 
-![](assets/images/ropuka-idle-island-capsule.jpg)
+<p style="text-align:center;"> 
+<img src="/assets/images/ropuka-idle-island-capsule.jpg" alt="Ropuka's Idle Island Capsule"/>
+</p>
 
 A charming little game about a retired frog (or at least, I _think_ he's retired), who spends his days trimming the grass around his cozy house and relaxing in between. Every now and then, he waves at you and cheers you on with lines like _“You’ve been working hard today!”_ or _“One step at a time...”_ He’s like a comforting companion, helping you ease into a productive mindset. I mean, I can’t just sit idle while my little "colleague" is out there diligently mowing grass on the second screen.
 

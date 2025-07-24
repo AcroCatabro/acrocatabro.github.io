@@ -71,9 +71,9 @@ minima:
   #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #  - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-    - { platform: mastodon,       user_url: "https://mastodon.gamedev.place/@AcroCatabro" }
-    - { platform: telegram,       user_url: "https://t.me/AcroCatabro" }
+     - { platform: mastodon,       user_url: "https://mastodon.gamedev.place/@AcroCatabro" }
+     - { platform: telegram,       user_url: "https://t.me/AcroCatabro" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-    - { platform: bluesky,       user_url: "https://bsky.app/profile/acrocatabro.bsky.social" }
-    - { platform: x,              user_url: "https://x.com/Acro_Catabro" }
+     - { platform: bluesky,        user_url: "https://bsky.app/profile/acrocatabro.bsky.social" }
+     - { platform: x,              user_url: "https://x.com/Acro_Catabro" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
