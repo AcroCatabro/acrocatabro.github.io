@@ -4,13 +4,14 @@ title: About
 ---
 
 Hello!
-I'm AcroCatabro, but you can just call me Acro 👋
+I'm AcroCatabro, but you can just call me Acro 👋 <br>
 Welcome to my small blog. Here I share stuff that doesn't fit into microblogs character limit.
 
 I do 3D environment art for video games for living.
 Aside from work, I usually draw, model and write about my original characters. And play video games of course.
 
 You can find me of various social platforms:
+
 - [Mastodon](https://mastodon.gamedev.place/@AcroCatabro)
 - [Bluesky](https://bsky.app/profile/acrocatabro.bsky.social)
 - [X/Twitter](https://x.com/Acro_Catabro)
