@@ -1,6 +1,8 @@
 ---
 layout: post
 title: About Ropuka's Idle Island
+description: A charming little game about a retired frog
+image: /assets/images/ropuka-idle-island-capsule.jpg
 tags: Videogames Impressions 
 ---
 

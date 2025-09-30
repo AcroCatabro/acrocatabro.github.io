@@ -9,10 +9,10 @@ email:
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-# description:
+description: Personal Blog of AcroCatabro
 
 # social links
-twitter_username: Acro_Catabro
+# twitter_username: Acro_Catabro
 # github_username:  jekyll
 rss: rss
 # dribbble_username: jekyll
@@ -26,12 +26,18 @@ rss: rss
 
 # Mastodon instances
 mastodon:
-- username: AcroCatabro
+  username: AcroCatabro
   instance: mastodon.gamedev.place
 # - username: jekyll2
 #   instance: example.com
 
-favicon: /assets/images/favicon.svg # Alternative path to the favicon
+# Jekyll Seo Tag Stuff
+twitter:
+  username: Acro_Catabro
+  card: summary
+
+
+favicon: /assets/favicon/favicon.svg # Alternative path to the favicon
 
 # Build settings
 
