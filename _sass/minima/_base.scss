@@ -103,27 +103,24 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $flexoki-orange-600;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: $flexoki-orange-400;
     text-decoration: underline;
   }
 
   &:hover {
-    color: $flexoki-yellow-400;
+    color: $flexoki-orange-200;
     text-decoration: underline;
   }
 
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
+  .post-link &:visited {
+    text-decoration: underline;
     }
+
   }
-}
 
 
 /**

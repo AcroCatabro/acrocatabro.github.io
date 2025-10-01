@@ -1,23 +1,23 @@
 ---
 layout: post
 title: About Masters of Doom
-tags: Books Impressions 
+tags:  
 ---
 
-An awesome book written in simple and easily understandable manner. I can recommend it not only to gamers interested in the history of the legendary game studio, but also to people who are curious about the world of gamedev in general.
+An awesome book written in a simple, easy-to-understand manner. I recommend it not only to gamers curious about the history of the legendary *id Software* but also to anyone interested in the world of gamedev in general.
 
-In a way, the book was a small nostalgic trip into a childhood for me. In addition to all the new (and inspiring!) information that I have gathered from it, of course.
+For me, the book was a nostalgic journey back to childhood. Beyond the wealth of new and inspiring information it provided, it evoked fond memories. <br>
+*DOOM II* was the very first video game I ever played. 
+When I was five or six, my mother took me along to visit her friend. While they were chatting, he sat me down at his computer to play the game. He didn't explain how to play though, so I spent half an hour in the starting room, fumbling with the keyboard, trying to figure out why I kept dying. By the time I started getting the hang of it, I was pulled away from the computer. But still, *DOOM II* left an unforgettable impression on me and remains one of my favorite games.
 
-Doom 2 was the first ever video game in my life. When I was 5-6 years old, my mother took me with her to visit her friend and he put me by the computer to play Doom while he and my mom were chatting at the kitchen. Of course, he didn't explain anything to me, so the little me spent half an hour in the starting room trying to figure out which buttons to press and why was I dying. By the time I started to figure out the controls, I had already been taken away from the computer. But the game made an unforgettable impression on me. Ever since then, Doom 2 has remained one of my favorite games to this day, which I run at least once a year.
+Reading about how the two Johns — Carmack and Romero — met by chance and went on to create video games that revolutionized the industry was both inspiring and bittersweet. It’s a little sad to realize that the romantic era of “garage” gamedev in the 1990s is gone forever. Everything was simpler back then: the games themselves, the developers, and the gamers. It was a different time with different rules. Today, that spirit lives on only in indie developers and small studios. <br>
+Between 2017 and 2019, I was part of such a small indie studio myself. And reading about id Software’s early days brought back fond memories of that time and the incredible people I met.
 
-Listening to how the two Johns, Carmack and Romero, coincidentally met and decided to make video games that turned the world of video games upside down - it was a little sad to realize that the romance of the "garage" game dev of the 90s has forever become a thing of the past. The video games back then were simpler, the developers were simpler, the gamers were simpler. Different time, different rules. Now something remotely similar can only be found among indie developers and small studios. <br>
-In 2017-2019, I was also part of such a small indie studio. And the way the idSoftware team developed in the 1990s brought back fond memories of that time and the people I was lucky enough to meet while working in it.
+In early 2024, to celebrate the 30th anniversary of the Doom series, there was a broadcast where Carmack and Romero reunited, years after parting ways. It was heartwarming to see them reminisce about the past and share everyday moments from their time at id Software, as if no time had passed. <br>
+Having read the book and learned about their controversial younger selves, it was fascinating to see how both have matured and how their perspectives have evolved.
 
-At the beginning of 2024, on the occasion of the 30th anniversary of the Doom series, there was a broadcast where both Johns met again many years after their paths parted. And, as if nothing had happened, both have remembered the past and all sorts of everyday moments from their time together at idSoftware. <br>
-After reading the book and knowing how controversial both Carmack and Romero were in their youth, it was interesting and nice to see how both of them changed with age and how their views on many things changed as well.
-
-Big thank you to David Kushner and everyone who was involved in writing this book. <br>
-And big thank you to idSoftware for making my very first and favorite video game 🙂
+A big thank you to David Kushner and everyone involved in writing this book. <br> 
+And an even bigger thank you to id Software for creating my first and favorite video game 😊
 
 <p style="text-align:center;"> 
 <img src="/assets/images/masters-of-doom-cover.jpg" alt="Masters of Doom Cover" width="400"/>

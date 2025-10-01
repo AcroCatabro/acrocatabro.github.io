@@ -32,7 +32,5 @@ But the problem is that every new run forces you to slog through the first 2-3 d
 The first time it was bearable, but by the third playthrough, I didn't have the patience to click through the same dialogues again. I just went to YouTube, watched the rest of endings there, and called it a day. <br>
 The save system doesn't help either: you get one save at the start, plus maybe 2-3 more along the way if you're lucky or paying attention. Sure, that adds weight to your choices, but for the average player, such restrictions are just unnecessary stress. Hardcore players who want an Iron Man mode could simply ignore the save system altogether.
 
----
-
 **Bottom line:** <br>
 Definitely recommend giving it a try at least once 👍 Especially if you, like me, love horror games that rely on atmosphere rather than jump scares.
