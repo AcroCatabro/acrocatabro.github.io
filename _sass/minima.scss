@@ -152,6 +152,12 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width:    800px !default;
 
+// Reading comfort controls (post body only).
+$post-reading-font-family: $base-font-family !default;
+$post-reading-font-size: 20px !default;
+$post-reading-line-height: 1.6 !default;
+$post-reading-max-width: 46rem !default;
+
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
