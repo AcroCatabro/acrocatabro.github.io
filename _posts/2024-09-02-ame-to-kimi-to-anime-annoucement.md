@@ -1,7 +1,11 @@
 ---
 layout: post
 title: About Ame to Kimi to
-tags: 
+description: Announcement of the "With Rain and You" anime adaptation
+image: /assets/images/ame-to-kimi-to-anime-promo.png
+date: 2024-09-02
+tags:
+  - News
 ---
 
 Kodansha recently [announced](https://www.animenewsnetwork.com/news/2024-08-20/with-you-and-the-rain-comedy-manga-gets-2025-tv-anime/.214573) an anime adaptation of *Ame to Kimi to* for next year. And I thought it's the perfect excuse to share a few thoughts about the original manga.

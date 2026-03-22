@@ -1,7 +1,11 @@
 ---
 layout: post
 title: About Masters of Doom
-tags:  
+description: A nostalgic journey with a double-barrel shotgun
+image: /assets/images/masters-of-doom-cover.jpg
+date: 2024-09-08
+tags:
+  - Reviews
 ---
 
 An awesome book written in a simple, easy-to-understand manner. I recommend it not only to gamers curious about the history of the legendary *id Software* but also to anyone interested in the world of gamedev in general.

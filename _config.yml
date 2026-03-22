@@ -1,5 +1,5 @@
 # domain: acrocatabro.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-# url: https://acrocatabro.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+url: "https://acrocatabro.github.io"  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl:                            # place folder name if the site is served in a subfolder
 
 title: Acro's Place
@@ -34,11 +34,8 @@ mastodon:
 # Jekyll Seo Tag Stuff
 image: /assets/images/card-2025-a.jpg
 twitter:
-  - username: Acro_Catabro
-  - creator: Acro_Catabro
-  - description: Personal Blog of AcroCatabro
-  - card: summary_large_image
-  - image: /assets/images/card-2025-a.jpg
+  username: Acro_Catabro
+  card: summary_large_image
 
 favicon: /assets/favicon/favicon.svg # Alternative path to the favicon
 
@@ -47,10 +44,8 @@ favicon: /assets/favicon/favicon.svg # Alternative path to the favicon
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
-# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
-# add a line comment on "theme: minima" above.
-remote_theme: "jekyll/minima@38a84a9"
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# Keep `theme: minima` for the simplest GitHub Pages-compatible setup in this repo.
 
 plugins:
   - jekyll-feed
@@ -61,7 +56,6 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - blog.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.

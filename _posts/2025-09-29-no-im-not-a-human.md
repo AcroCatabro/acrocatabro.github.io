@@ -3,7 +3,9 @@ layout: post
 title: About No I'm Not A Human
 description: How to not get a sunburn and fend off Visitors
 image: /assets/images/no-im-not-a-human-header.jpg
-tags: 
+date: 2025-09-29
+tags:
+  - Reviews
 ---
 
 <p style="text-align:center;"> 
